@@ -1,2 +1,3 @@
-# Biinformatics
-Python based bioinformatics 
+# Bioinformatics
+Python based bioinformatics code  
+Hello world Script
