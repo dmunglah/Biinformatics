@@ -1,2 +1,1 @@
-msg = ('Hello Greet!')
-print (msg)
+print ("Greet")
