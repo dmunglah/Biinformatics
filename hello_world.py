@@ -1,5 +1,2 @@
-import sys
-
-Greet = sys.argv[1]
-DeBaets = sys.argv[2]
-print("Hello " + Greet + " " + DeBaets)
+name = input("input name:")
+print ("Hello" name)
