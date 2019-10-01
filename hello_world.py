@@ -1,2 +1,2 @@
-name = input("input name:")
-print ("Hello" name)
+print ("Hello$" + str(name)
+name = input
