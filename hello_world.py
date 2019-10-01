@@ -1,2 +1,1 @@
-print ("Hello$" + str(name)
-name = input
+print ("Hello${name}!")
